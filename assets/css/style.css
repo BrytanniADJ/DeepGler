@@ -1,0 +1,25 @@
+:root{
+    --cor-base: #001DDC;
+    --gris100: #171717; /* Fundo */
+    --gris50: #787878;
+    --gris0: #dedede; /* Texto */
+}
+
+*{
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+
+body{
+    background-color: var(--gris100);
+    color: var(--gris0);
+}
+
+header{
+
+}
+
+footer{
+
+}
